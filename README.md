@@ -30,21 +30,27 @@
   ### Library
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <!--TailwindCSS-->
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindCSS&logoColor=white" alt="TailwindCSS">
+  <!--ReactQuery-->
+  <img src="https://img.shields.io/badge/React Query-FF4154?logo=reactquery&logoColor=white" alt="React Query">
+  <!--Jest-->
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=ffffff" alt="Jest">
+  <!--React Test Libray-->
+  <img src="https://img.shields.io/badge/Testing library-E33332?logo=testinglibrary&logoColor=ffffff" alt="Testing Library">
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
   
   ### Framework
-  <!--F-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  
+  <!--Next.js-->
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white" alt="Next.js">
+ 
   <br/>
   
   ### ETC
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=icloud&logoColor=white"/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--MySQL-->
